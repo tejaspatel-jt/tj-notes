@@ -1,0 +1,32 @@
+The Assignment is to create a responsive image slider without using any frameworks or libraries. 
+Below are the detailed requirements for the project:
+1.      Image Slider Functionality:
+•        The slider should be able to handle any number of images.
+•        It should include navigation buttons on the left and right to move between images.
+•        Pagination indicators should be present at the bottom to show the current slide and allow navigation to specific slides.
+2.      Responsiveness:
+•        The slider must be fully responsive and work seamlessly on various screen sizes, including desktops, tablets, and mobile devices.
+3.      Accessibility:
+•        The slider should adhere to WCAG 2.1 accessibility standards.
+•        Ensure that all interactive elements are keyboard accessible.
+•        Provide appropriate ARIA roles and labels for screen readers.
+4.      Dynamic Approach:
+•        The slider should be designed to easily add or remove images and text dynamically.
+•        Use JavaScript to handle the dynamic addition of images.
+5.      Documentation and Comments:
+•        The project should be well-documented, including a README file with instructions on how to set up and run the slider.
+•        Include comments in the code to explain the functionality and logic.
+Technical Specifications
+•        HTML: Structure the slider using semantic HTML5 elements.
+•        CSS: Style the slider using CSS or CSS3, ensuring it is visually appealing and responsive.
+•        JavaScript: Implement the slider functionality using vanilla JavaScript.
+•        Don’t use any third party js library or CSS framework.
+Deliverables
+1.      A zip file containing the complete project, including HTML, CSS, and JavaScript files.
+2.      A README file with setup instructions and any other relevant information.
+3.      An explanation of how the slider meets the accessibility standards.
+
+
+This is an assignment for creating responsive image slider without using any frameworks or libraries and just use pure vanina js.
+
+git remote set-url origin https://tejaspatel-jt@github.com/tejaspatel-jt/image-slider
