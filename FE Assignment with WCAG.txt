@@ -29,4 +29,3 @@ Deliverables
 
 This is an assignment for creating responsive image slider without using any frameworks or libraries and just use pure vanina js.
 
-git remote set-url origin https://tejaspatel-jt@github.com/tejaspatel-jt/image-slider

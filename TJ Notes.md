@@ -10,7 +10,8 @@
 ============================================================
 
 ============================================================
-
+git remote set-url origin https://tejaspatel-jt@github.com/tejaspatel-jt/image-slider
+git remote set-url origin https://tejaspatel-jt@github.com/tejaspatel-jt/tj-notes
 ============================================================
 I'm Tejas Patel, a Front-End Developer with over 6 years of experience in creating dynamic and user-friendly web applications. My expertise lies in JavaScript, particularly with frameworks like React and Ionic, which I understand are crucial for this role at PeopleScout.
 
