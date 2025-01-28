@@ -6,9 +6,14 @@
 ============================================================
 
 ============================================================
-
+Revati Plaza, C-301, Bhakti Circle, Ankur Chokadi, New India Colony, Ankur Tenament, Nikol, Ahmedabad, Gujarat 382350
+850
 ============================================================
+Piyush  Shardul  Please confirm this if you can by this week 
 
+so we can do service on this weekend for all ACs.
+
+Open to discuss this
 ============================================================
 git remote set-url origin https://tejaspatel-jt@github.com/tejaspatel-jt/image-slider
 git remote set-url origin https://tejaspatel-jt@github.com/tejaspatel-jt/tj-notes
