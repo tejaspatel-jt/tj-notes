@@ -89,5 +89,12 @@ Follow these exact steps to ensure your website complies with WCAG 2.1:
 1. [Accessible Colors](https://accessible-colors.com/) - This tool evaluates color combinations against WCAG 2.0 AA standards and suggests modifications to achieve compliance.
 1. [Contrast Ratio](https://www.siegemedia.com/contrast-ratio) - An online tool that allows users to input colors and check their contrast ratio, providing instant feedback on compliance with WCAG guidelines.
 1. [Coolors Color Contrast Checker](https://coolors.co/contrast-checker) - A straightforward online tool that follows WCAG guidelines to check the contrast between two colors.
-1. 
 
+
+# 🚀 Final Checklist for Keyboard Accessibility
+1. ✅ Can users reach all interactive elements using `Tab`?
+1. ✅ Are focus indicators always visible?
+1. ✅ Does pressing `Enter` activate buttons & links?
+1. ✅ Do dropdowns, modals, and menus close with `Esc`?
+1. ✅ Are ARIA roles (`aria-expanded`, `aria-haspopup`) used where needed?
+1. ✅ Are keyboard shortcuts properly described (`aria-keyshortcuts`)?

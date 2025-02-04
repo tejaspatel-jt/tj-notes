@@ -55,10 +55,10 @@ Piyush  Shardul  Please confirm this if you can by this week
 so we can do service on this weekend for all ACs.
 
 Open to discuss this
-============================================================
-git remote set-url origin https://tejaspatel-jt@github.com/tejaspatel-jt/image-slider
-git remote set-url origin https://tejaspatel-jt@github.com/tejaspatel-jt/tj-notes
-git remote set-url origin https://tespie@github.com/Tespie/Learn-CSS-Basics.git
+# ===========================================================
+- git remote set-url origin https://tejaspatel-jt@github.com/tejaspatel-jt/image-slider
+- git remote set-url origin https://tejaspatel-jt@github.com/tejaspatel-jt/tj-notes
+- git remote set-url origin https://tespie@github.com/Tespie/Learn-CSS-Basics.git
 ============================================================
 I'm Tejas Patel, a Front-End Developer with over 6 years of experience in creating dynamic and user-friendly web applications. My expertise lies in JavaScript, particularly with frameworks like React and Ionic, which I understand are crucial for this role at PeopleScout.
 
@@ -68,7 +68,7 @@ I am proficient in using modern development tools such as Node.js, npm, and Git,
 
 I am excited about the opportunity at PeopleScout because I admire your commitment to providing tailored recruitment solutions. I am confident in my ability to tackle any challenges that arise and contribute positively to your team, ensuring that we deliver exceptional web solutions together.
 
-============================================================
+# ============================================================
 You can start preparing below things for our Technical Interview.
 
 - OOPs Concepts (Must needed)
@@ -79,60 +79,9 @@ You can start preparing below things for our Technical Interview.
 - What is Testing ? What is diff bw Automation & Manual Testing
 - Diff Types of Testing
 
-
 ============================================================
-## JS Array Methods
-- push() method adds one or more elements to the end of an array and returns the new length of the array.
-- pop() method removes the last element from an array and returns that element.
-- shift() method removes the first element from an array and returns that element.
--unshift() method adds one or more elements to the beginning of an array and returns the new length of the array.
-- map() returns a new array with transformed elements.
-- filter() returns a new array with elements that meet a condition.
-- find() returns the first element that meets a condition or undefined.
-- reduce() returns a single value that is the result of accumulating values from the array.
-- .splice(index, noOfItemsTobeRemoved, item1, ....., itemX) method changes the contents of an array by removing or replacing existing elements and/or adding new elements in place AND returns an array containing the deleted elements.
-- slice() method returns a shallow copy of a portion of an array into a new array object selected from start to end (end not included).
-```
-Positive Index:   0         1        2       3      4
-Fruits:       ["Banana", "Orange", "Lemon", "Apple", "Mango"]
 
-Negative Index:  -5        -4       -3      -2     -1
-```
-- concat() method is used to merge two or more arrays. This method does not change the existing arrays but instead returns a new array.
-- every() method tests whether all elements in the array pass the test implemented by the provided function.
-- some() method tests whether at least one element in the array passes the test implemented by the provided function.
--  includes() method determines whether an array includes a certain value among its entries, returning true or false as appropriate.
 
-### This
-- The value of this is determined by how a function is called, not where it is defined.
-- In global context, this refers to the global object.
-- In object methods, this refers to the object itself.
-- In constructor functions, this refers to the new instance.
-- Arrow functions inherit this from their enclosing scope.
-- In event handlers, this refers to the element that triggered the event.
-- You can manually set the value of this using call(), apply(), and bind().
-
-### Function
-- Use call() when you want to invoke a function immediately with a specific this context and individual arguments.
-- Use apply() when you want to invoke a function immediately with a specific this context and an array of arguments.
-- Use bind() when you want to create a new function with a specific this context that can be called later, optionally pre-filling some arguments. 
-
-##### Hoisting Behavior
-- var: Hoisted and initialized with undefined. Can be accessed before declaration, but will return undefined.
-- let and const: Hoisted but not initialized. Accessing them before declaration results in a ReferenceError due to the Temporal Dead Zone.
-- Function Declarations: Hoisted and can be called before their declaration.
-
-### Concepts
-- void(0) is used to call another method without refreshing the page during the calling time parameter “zero” will be passed.
-```
-<a href="javascript:void(0);" onclick="showMessage()">Click me!</a>
-```
-- `Debouncing` ensures that a function is only executed after a certain amount of idle time, i.e., it delays the execution until the event stops triggering for a specified time (e.g., for search input).
-- `Throttling` limits the number of times a function can be executed in a given period, ensuring it runs at regular intervals (e.g., during scroll or window resizing).
-- `Promise` callbacks (microtasks) are executed before `setTimeout` (macrotasks).
-- 
-============================================================
-wordpress
 
 - Purge from Cache
 - 

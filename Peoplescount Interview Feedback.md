@@ -83,3 +83,25 @@
 ---
 
 **Thanks,**
+
+## Assignment Feedback
+
+### Things Done Right: 
+- CSS CSS done for the slider is working fine. 
+- Responsive CSS Proper use of responsive breakpoints. 
+- HTML: HTML is done right. 
+- Modular Functions approach: Functions are well-defined and modular, making the code easy to understand and maintain. 
+- Comments: Good use of comments to explain the code, siding in g in readability and maintenance. 
+
+### Areas of Improvement: 
+- Global Variables: Encapsulating global variables like slide index, is Paused, and slide Interval within an object or a closure would prevent potential conflicts, - - Error Handling: Adding error handling for cases where elements might not be found (e.g. document.querySelector) would make the code more robust. 
+- JavaScript: Js written for this slider is unable to handle multiple instances at a time on a single page. 
+- Aria-labels: Aria labels are used but not property 
+- Alt Text: All images should have meaningful alt text. For images without captions, descriptive alt text is essential 
+- Accessible: Slider is not accessible 
+
+### Final Recommendation; Hold 
+We can hold him for now until we find the best candidate, Can you share few more proflies who we can review and take a decision. 
+We can work with him, but he would need training for around a week (Accessibility, WordPress, our frontend build) to start working independently with us, for this contractual role we are looking for a candidate who can start quickly and independently,
+
+Thanks,
