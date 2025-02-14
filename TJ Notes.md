@@ -5,6 +5,8 @@
 
 
 
+C:\Users\tejas\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
 
 
 
@@ -33,7 +35,18 @@
 
 
 ============================================================
+@Shardul  This is regarding your 3 day leave
 
+ Leave Request Details Start & End date : Monday, 17 February 2025 - Wednesday, 19 February 2025
+Duration : 3 days
+
+Can you give me 5 mins of KT on below topics 
+- How WFH guys are Taking remote 
+- What you do when Power Cut , any readings to keep eye about how much battery backup we have etc
+
+Above things sounds small but good to just have an idea :)
+
+CC : @Piyush  Confirm the same and let me know if anything else.
 ============================================================
 Mukta-Bold.ttf 
 Mukta-ExtraBold.ttf 

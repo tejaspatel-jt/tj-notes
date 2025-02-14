@@ -1,3 +1,14 @@
+## Request for Desk Change Due to Health Concern Caused by AC Flow
+
+Thank you for sharing your concerns about the AC airflow near your desk. I understand your discomfort and appreciate you consulting a doctor.
+
+To ensure everyone's comfort, our policy includes a standard temperature of 26 degrees Celsius with AC swing. 
+
+Desk locations are thoughtfully arranged based on project team members and finalized by @piyush. While I can't make changes to desk assignments at this time, I want to assure you that we value your well-being. 
+
+I appreciate your understanding as we balance individual preferences with the overall comfort and productivity of the team.
+
+
 ## Request to Lower Office Temperature
 
 Dear Amitesh,

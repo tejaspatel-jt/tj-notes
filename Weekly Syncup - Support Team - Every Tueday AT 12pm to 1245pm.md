@@ -1,4 +1,4 @@
-### 4 feb 2025 - support syncup points to be discussed
+### 4 feb 2025 - support syncup points to be discussed - done on 11 feb 2025
 - Helpdesk ticket - 91 - New Books - do we need and how it helps - ITS ON HOLD FOR NOW
 - Ashika's new email for HR Bills on drive
 - Shardul taking remote for activating software / We have to go on his desk for resolution , shared password in past , is it right way , Can we can do better  ?

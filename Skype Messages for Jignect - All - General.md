@@ -1,6 +1,20 @@
 # Jignect - All - General
 
 ================================================================
+Hey Bookworms! 🎉📚 @all 
+
+Get ready to dive into four incredible new worlds! We've just stocked up on must-reads for every kind of book lover:
+
+👉*1. The Design of Everyday Things* 📖: Ever wondered why some products just click? Unlock the secrets of intuitive design and user-friendly thinking!
+
+👉*2. Power of Ignored Skills* 📘: Discover how to stand out and succeed by mastering the skills everyone else overlooks!
+
+👉*3. The Coming Wave* 🤖: Ride the cutting edge of innovation and explore the game-changing world of Artificial Intelligence!
+
+👉*4. Elon Musk by Walter Isaacson* 🚀: Get an inside look into the life and mind of the visionary behind Tesla and SpaceX!
+
+Run, don't walk, to grab your copies before they're gone! Happy reading! 📚✨
+================================================================
 @all
 
 🌊 Update: Water Supply Resumed 🌊
