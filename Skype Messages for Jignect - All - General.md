@@ -1,6 +1,61 @@
 # Jignect - All - General
 
 ================================================================
+
+### Polite Version:
+
+Hi! 👋 @all
+The toilet flush is having issues 🚽. 
+Could you please use the bucket 🪣 until it's fixed? 🙏 
+Thanks! 😊
+
+========
+
+### Professional Version:
+Hi! 👋 @all
+This is to inform you that the toilet flush button is malfunctioning 🛠️. 
+Please utilize the bucket 🪣 for flushing purposes until repairs can be made. 
+Your cooperation is appreciated 👍.
+Thank you.
+
+========
+
+### Convincing Version:
+Hi! 👋 @all, Heads up! 📢 
+The toilet flush button isn't working properly 🚽. 
+Please use the bucket 🪣 in the meantime to maintain hygiene until it's fixed. 😉 
+Thanks for your understanding! 🙌
+
+========
+
+## Lengthy Versions............
+
+### Polite Version:
+
+I hope this message finds you well. 😊
+I wanted to bring to your attention that the flush button in the toilet is currently experiencing some difficulties 🚽.
+In the meantime, I kindly ask that you use the bucket 🪣 for flushing until the issue is resolved. 🙏
+Thank you for your understanding! ✨
+
+========
+
+### Professional Version:
+
+This is to inform you that the flush button in the toilet is malfunctioning 🛠️ at present.
+Please utilize the bucket 🪣 for flushing purposes until repairs can be made.
+Your cooperation in this matter is appreciated 👍.
+Thank you.
+
+========
+
+### Convincing Version:
+
+I wanted to let you know that we're currently facing some issues with the toilet flush button 🚽, which may disrupt its functionality.
+To ensure a smooth experience while we work on fixing it, I highly recommend using the bucket 🪣 for flushing in the interim.
+This temporary solution will help maintain hygiene and convenience until we resolve the issue. 😉
+Thank you for your patience and understanding! 🙌
+
+================================================================
 Hey Bookworms! 🎉📚 @all 
 
 Get ready to dive into four incredible new worlds! We've just stocked up on must-reads for every kind of book lover:

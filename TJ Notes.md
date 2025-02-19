@@ -1,38 +1,36 @@
 
 
+### 13 AC Service Details and Billing
+
+AC Services (Total 13 AC : 7 Split + 6 Cassette)
+
+Split AC = 1300 x 7 = 9100 (433 per AC)
+Cassette AC = 7500 x 6 = 45000 (2500 per AC)
+
+Per Service = (3000 split) + (15000 Cassette) = 18000
 
 
+Split ACs - 7
+1. Reception - 2 hrs
+2. Meeting Room 3rd Floor- 4 hrs
+3. Conference Room - 4 hrs
+4. Network Room 3rd Floor - 4 hrs
+5. Boss Cabin - 11 hrs
+6. Network Room 2nd Floor - 4 hrs
+7. Meeting Room 2nd Floor- Sometimes only
+
+Cassette ACs - 6
+1. Cafeteria - 2 hrs
+2. 3rd Floor Work Area 1 - 14 hrs
+3. 3rd Floor Work Area 2 - 14 hrs
+4. 3rd Floor Work Area 3 - 10 hrs
+5. 2nd Floor Work Area 1 - 10 hrs
+6. 2nd Floor Work Area 2 - 9 hrs
 
 
-
+============================================================
 C:\Users\tejas\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ============================================================
 @Shardul  This is regarding your 3 day leave
