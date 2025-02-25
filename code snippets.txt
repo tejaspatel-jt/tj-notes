@@ -1,0 +1,31 @@
+explain diff beween below 2 code blocks in depth
+
+// code block 1
+using Microsoft.EntityFrameworkCore;
+
+namespace my_another_mvc_web_app.Models
+{
+    public class SchoolContext : DbContext
+    {
+        public DbSet<Student> Students { get; set; }
+
+        public SchoolContext(DbContextOptions options) : base(options)
+        {
+        }
+    }
+
+}
+
+// code block 2
+using Microsoft.EntityFrameworkCore;
+
+namespace my_another_mvc_web_app.Models
+{
+    public class SchoolContext(DbContextOptions<SchoolContext> options) : DbContext(options)
+    {
+        public DbSet<Student> Students { get; set; }
+
+        
+    }
+
+}

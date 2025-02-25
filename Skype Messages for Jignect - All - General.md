@@ -69,7 +69,10 @@ Get ready to dive into four incredible new worlds! We've just stocked up on must
 👉*4. Elon Musk by Walter Isaacson* 🚀: Get an inside look into the life and mind of the visionary behind Tesla and SpaceX!
 
 Run, don't walk, to grab your copies before they're gone! Happy reading! 📚✨
-================================================================
+# ============================
+
+# Water Supply🪣
+
 @all
 
 🌊 Update: Water Supply Resumed 🌊
@@ -110,6 +113,20 @@ CC : Piyush
 
 ================================================================
 
+# Tea Issues ☕
+
+Dear Team all 
+
+Please note that our tea service will be delayed due to issues with the milk supply 🥛. 
+
+We expect to have everything ready by around 4:45 PM today ⏰.
+
+We apologize for the inconvenience and appreciate your understanding 🙏. 
+
+Thank you! ✨
+
+---------------------------------------------
+
 Dear Team, @all 
 
 Unfortunately, due to the current power outage, we are facing difficulties in managing TEA (tea) services. We apologize for the inconvenience and appreciate your understanding.
@@ -118,14 +135,16 @@ We will resume normal services as soon as the power is restored.
 
 Thank you for your cooperation.
 
-================================================================
+---------------------------------------------
+
 Dear Team, @all
 
 Unfortunately, Due to a power outage ⚡️, we are currently unable to manage TEA ☕️ services. 
 We apologize for the inconvenience and appreciate your understanding. 🙏
 Thank you for your cooperation! ✨
 
-================================================================
+---------------------------------------------
+
 @all  
 
 ⚠️ Important Notice ⚠️
@@ -136,4 +155,4 @@ Kindly avoid closing it 🙏, as it could potentially break the entire glass ❗
 
 Thank you for your cooperation 😊.
 
-================================================================
+---------------------------------------------

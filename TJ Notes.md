@@ -1,4 +1,35 @@
 
+============================================================
+
+============================================================
+Piyush Updates
+
+- Issue of api is not being hit till Controller. - RESOLVED ✅
+- swagger is configured to To serve the Swagger UI at the app's root on https://localhost:7211/- Completed ✅
+- JWT token generated and code first migration done again with Guid added. - Completed ✅
+- Refactored Authentication using Service layer - Completed ✅
+
+NEXT
+- Securing Endpoints with [Authorize] attribute
+- Adding Roles to the User Model
+- Implementing Refresh Token 📌
+
+Thanks
+
+ 
+============================================================
+
+============================================================
+## From Youtube Ads
+
+- work sucks, start a company, it’ll be fun, we invest $30-50k and build with you
+https://www.athena.vc/
+
+- https://utho.com/ - Optimize Cloud Server Costs by 60% Achieve Efficiency and Savings
+
+- https://www.servicenow.com/ - PUT AI TO WORK FOR PEOPLE
+
+============================================================
 
 ### 13 AC Service Details and Billing
 
@@ -1195,7 +1226,10 @@ o   Salary Bank Account which brings benefits like no MAB
 
 ·      Long term customers -> we multi folded on few projects and have opened opportunities for all to work in different roles. That’s huge win for us ! 
 
-# 
+# ========================================
+
+my wife and i have lot of issues since last 2.5 years after the marriage and still she is not accepting my things, not respecing my mother and relatvies and me too and have lot of complaints about me always even if i do lot for her still in her POV i do nothing. and previouly also many times she said she dont feel good here and dont want to be with me and recently also there are lot of fights and up and down from last 20 days and so no i also taking decision to separate and so she also asked me over the mssage saying that "Are you sure about your decision"
+so write my reply in such a way that yes i also dont want to be with her as she also wants the same and eveneutaly i am taking this decision for her happiness only as she dont have that interest in me any more so write short reply message for this
 
 
 
