@@ -1,15 +1,41 @@
 
 https://www.linkedin.com/posts/angela-ngesa-b68103290_im-excited-to-share-a-new-series-of-articles-activity-7297492206922141696-ZtPX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A
 
-https://www.linkedin.com/posts/kailashpathak_99-cypressio-tips-activity-7293260670702166016-H-If?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A
+https://www.linkedin.com/posts/kailashpathak_99-cypressio-tips-activity-7293260670702166016-H-If?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A - ✅
 
-https://www.linkedin.com/posts/daniil-shapovalov_cypress-testautomation-qa-activity-7298243737820827648-A5z3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A
+https://www.linkedin.com/posts/daniil-shapovalov_cypress-testautomation-qa-activity-7298243737820827648-A5z3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A - ✅
 
-https://www.linkedin.com/posts/felipekm_software-testing-crashing-guide-activity-7300088399888105472-WUbD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A
+https://www.linkedin.com/posts/felipekm_software-testing-crashing-guide-activity-7300088399888105472-WUbD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A - ✅
 
-https://www.linkedin.com/posts/brainx-technologies_6-benefits-of-test-driven-development-activity-7300078516874756098-T9ha?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A
+https://www.linkedin.com/posts/brainx-technologies_6-benefits-of-test-driven-development-activity-7300078516874756098-T9ha?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A - ✅
 
-https://www.linkedin.com/posts/chaima-baraket_automation-tools-activity-7300046944763015168-ALDO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A
+https://www.linkedin.com/posts/chaima-baraket_automation-tools-activity-7300046944763015168-ALDO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A - ✅
+
+
+
+
+
+=====================
+
+Done Piyush Patel
+ 
+You can do at your own I think Tejas Patel but not sure why I don't see any movements  
+ 
+Lets do this 5-20 comments each day in various ohours so it looks more human 
+ 
+Topcis can be tools and tech to culture or anything touches QA Tejas Patel
+L
+ets comment on QA pages or QA tools companies and Influencer. Commenting Individual unless at they are at higher level will work only like CEO, CTO, Founder, Product Managers etc etc Tejas Patel
+ 
+WE can skip giving attention to QAs. 
+ 
+QA Lead and above is good try Dhruvi Vasani
+ 
+Tejas Patel
+ 
+Thanks
+ 
+=====================
 
 
 Someone posted this
