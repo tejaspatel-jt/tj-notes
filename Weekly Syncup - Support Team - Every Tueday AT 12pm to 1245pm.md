@@ -1,3 +1,26 @@
+### 4 March 2025 - Support Weekly Syncup Points
+- Which Address ?
+JIGNECT TECHNOLOGIES
+C-201, Revati Plaza, Bhakti Circle, 
+Ankur Chokadi, New India Colony, 
+Ankur Tenament, Nikol, Ahmedabad, Gujarat 382350
+
+GSTIN : 24BNGPP6170E1Z1
+
+or 
+
+JIGNECT TECHNOLOGIES
+C-301, Revati Plaza, 
+Near Bhakti Circle, 
+Nikol, Ahmedabad, Gujarat, 
+India 382350
+
+- Correct GST Number ?
+- Half day hours for Ranjit/Rameshbhai
+
+
+### 25 feb 2025 - cancelled due to other meetings
+
 ### 4 feb 2025 - support syncup points to be discussed - done on 11 feb 2025
 - Helpdesk ticket - 91 - New Books - do we need and how it helps - ITS ON HOLD FOR NOW
 - Ashika's new email for HR Bills on drive

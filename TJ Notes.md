@@ -1,6 +1,12 @@
 
 ============================================================
 
+Ronak   Please find requested details below..........
+
+👉 Ranjit has taken 1 leave(s) in this month & has 2.5 leave balance till now.
+👉 Rameshbhai has taken total 2 leaves in january 2025 & had 0 Balance so *2 Unpaid leaves*⚠️
+
+Please let me know if I can assist you with anything else.
 ============================================================
 Piyush Updates
 
