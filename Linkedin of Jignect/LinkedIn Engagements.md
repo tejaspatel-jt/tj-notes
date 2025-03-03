@@ -15,25 +15,25 @@ https://www.linkedin.com/posts/qa-valley-inc_devops-aiintesting-automation-activ
 𝐖𝐡𝐲 𝐄𝐯𝐞𝐫𝐲 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐂𝐨𝐦𝐩𝐚𝐧𝐲 𝐍𝐞𝐞𝐝𝐬 𝐓𝐞𝐬𝐭𝐞𝐫𝐬 (𝐐𝐀)? ✅
 https://www.linkedin.com/posts/kushalparikh11_softwaretesting-qa-manualtesting-activity-7301118972043620352-bGRD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A
 
-Bug Life Cycle - Active member with 7M+ impressions
+Bug Life Cycle - Active member with 7M+ impressions ✅
 https://www.linkedin.com/posts/guneetsinghbali_qualityassurance-learning-bughunter-activity-7301069860661248000-L03R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A
 
-Shift Left Testing
+Shift Left Testing✅
 https://www.linkedin.com/posts/bug-raptors_shiftlefttesting-bugraptors-softwaretesting-activity-7301114100716048386-dO8d?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A
 
-UI Path
+UI Path ✅
 https://www.linkedin.com/posts/vishal-kalra-9697774_uipath-autopilot-for-testers-ai-powered-activity-7301107353490227200-ZYjR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A
 
-IT industry ivolving and Learning required for mastering test automation frameworks, API security, or AI-driven QA, staying ahead requires continuous learning and hands-on experience.
+Tinsae Thomas Ganebo - software tester and cybersecurity professional ✅
 https://www.linkedin.com/posts/tinsae-thomas-ganebo-9214891b8_softwaretesting-cybersecurity-automation-activity-7301104111595184128-Rj0s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A
 
-🚀 Why Manual Testing is Still Essential in QA! 🔍
+🚀 Why Manual Testing is Still Essential in QA! 🔍 ✅
 https://www.linkedin.com/posts/nagaraj-rodagi_manualtesting-qa-softwaretesting-activity-7301096798423519232-zxhi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A
 
-"Bro, My Automation Journey is Doomed!" – My Friend's Struggles as a Test Automation Engineer
+"Bro, My Automation Journey is Doomed!" – My Friend's Struggles as a Test Automation Engineer ✅
 https://www.linkedin.com/posts/vigneshmanikandan3160_testautomation-sdet-softwaretesting-activity-7301083873856180225-HFOx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A
 
-Master Selenium Automation with Page Object Model (POM)! 🚀
+Master Selenium Automation with Page Object Model (POM)! 🚀 ✅
 https://www.linkedin.com/posts/sachini-fonseka-27b5ab256_selenium-automationtesting-pom-activity-7301077605493981187-ShTw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A
 
 =====================

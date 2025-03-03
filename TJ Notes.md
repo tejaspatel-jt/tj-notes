@@ -1,4 +1,48 @@
 
+@ Piyush Patel
+
+Please find my all types of updates here.
+
+📌 C# Web API Learning 📌
+- How to use ActionResult and IActionResult for ASP.NET Web API - Completed ✅
+- Resolved build issue of PokemonReviewApp which is blocker since long. - Completed ✅
+
+📌 Linkedin 📌
+- Added comment on 7 different posts from Jignect Account.
+
+📌 Admin 📌
+- Uploaded Amazon Bills for February month to Drive
+- Created Monthly Report for Admin Department.
+
+NEXT ⏭️
+- Create loom video of my web api learning till now. ( delayed as one major project of mine is not running but its resolved today so ETA Tomorrow First Half)
+- create video of emergency lift opener key and share with people in group and its awareness. (Tomorrow at 2 PM)
+- visit AMC office for status check of 2 applications we have submitted (Tomorrow post 3 PM)
+
+Thanks !
+
+============================================================
+Hey @all, (wave)
+
+🙏During this weekend, I've visited Ambaji Temple and brought Prasadi for everyone to enjoy.
+
+Please take it from the cafeteria and remember not to waste it.🙅‍♂️
+
+Thank you!
+
+============================================================
+Hello @all, 👋
+
+🙏 Over the weekend, I had the privilege of visiting the Ambaji Temple and brought prasadi to share with everyone. 
+
+It is available in the cafeteria for you to collect and enjoy.
+
+I kindly request everyone to take only what you need and avoid any wastage.
+
+Thank you!
+
+🙏 Bol Madi Ambe... Jay Jay Ambe! 🙏
+
 ============================================================
 
 Ronak   Please find requested details below..........
