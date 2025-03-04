@@ -1,3 +1,67 @@
+===========================================================
+
+# 👉List of things I have learned so far for .NET Web API + .NET MVC Web App
+
+- Understanding the .NET Ecosystem
+- IEnumerable<T> vs ICollection<T> vs IList<T>
+- Nuget Package Management
+- Depenedency Injection
+- Trasient vs Scoped vs Singleton services
+- Data Seeding
+- Create and Connect Database in ASP.NET
+- `Code First` and `Database First` migration 
+- Add Swagger Support in Older version and Use openapi in newer .net versions
+- Repository Pattern
+- Automapper
+- `ActionResult` and `IActionResult`.
+- Create GET, POST, PUT, DELETE api
+- Web API filters - Sync & Async Filters, Ordered Filters
+- Authorization Filters
+- Resource filter
+- Exception Filters
+- Results Filters
+- Middleware
+- Model Binding
+- Routing
+- Model Validation
+- `appsettings.json` and `launchSettings.json` Files
+- Authentication using JWT token , 
+- Generating Refresh Token
+- Role Based Authentication
+- Static files in asp net core
+- Passing data to view in ASP NET Core MVC - `ViewData` & `ViewBag` & `Strongly Typed View`
+- Layout view in asp net core mvc
+- ViewStart cshtml in ASP NET Core MVC
+
+## ⤴️ Topics to Be Learn next ⏭️
+- Data Serialization
+  - JSON Serialization/Deserialization
+  - XML Serialization/Deserialization
+- Error Handling
+  - Exception Handling in APIs
+  - Global Error Handling
+- Performance optimization
+  - Caching techniques (In-Memory Cache)
+  - Monitoring
+  - Logging
+- Database integration
+  - SQL Basics
+  - Entity Framework Core (EF Core)
+  - Querying with LINQ
+  - Query Optimization
+  - Transactions
+- Security
+  - Cross-Origin Resource Sharing (CORS)
+  - Data Encryption
+- DevOps and Deployment
+  - CI/CD Pipelines
+  - Docker and Containerization
+  - Cloud Deployment
+
+
+
+
+===========================================================
 
 @ Piyush Patel
 
@@ -15,7 +79,7 @@ Please find my all types of updates here.
 - Created Monthly Report for Admin Department.
 
 NEXT ⏭️
-- Create loom video of my web api learning till now. ( delayed as one major project of mine is not running but its resolved today so ETA Tomorrow First Half)
+- Create loom video of my web api learning till now. ( delayed as one major project of mine is not running but its resolved today so ETA Tomorrow First Half) ✅
 - create video of emergency lift opener key and share with people in group and its awareness. (Tomorrow at 2 PM)
 - visit AMC office for status check of 2 applications we have submitted (Tomorrow post 3 PM)
 
