@@ -1,6 +1,35 @@
 # Jignect - All - General
 
 ================================================================
+Subject : Important: Emergency Lift Opener Details & Contact Information
+
+Dear Team,
+We have recently acquired an emergency lift opener for our office to enhance safety and preparedness. Please take note of the following important information:
+In case you find yourself stuck in the lift, please remain calm and avoid panicking.
+Reach out to any of the following individuals for assistance:
+
+Emergency Contact Hierarchy
+Ranjit (+91 90230 73917) or Rameshbhai (+91 78741 32831)
+Tejas Patel (Me) - +91 96876 29238
+Shardul Modi (IS) - +91 81550 21278
+Ashika Sardhara (HR) - +91 81603 42676
+Piyush Patel (Founder & CEO) - +91 99799 05057
+We request everyone to save these contact numbers in your phone for easy access during emergencies.
+The emergency key opener is stored in the drawer of the reception table. You may retrieve it from there, or our office boys (Ranjit or Rameshbhai) will assist you.
+ 
+Additionally, operating the lift opener is a straightforward process. To help you familiarize yourself with its usage, we are attaching a reference video for your convenience. Please review it so that you can assist others if needed.
+ 
+Video Link : How to use Emergency Lift Opener.mov
+ 
+Your safety is our utmost priority. For any concerns or questions, feel free to reach out to us.
+ 
+Best regards,
+ 
+Admin Department
+How to use Emergency Lift Opener.mov
+WhatsApp Image 2025-03-05 at 2.54.22 PM.jpeg
+ 
+================================================================
 
 ### Polite Version:
 

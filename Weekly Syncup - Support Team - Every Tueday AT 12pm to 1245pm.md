@@ -16,7 +16,9 @@ Nikol, Ahmedabad, Gujarat,
 India 382350
 
 - Correct GST Number ?
-- Half day hours for Ranjit/Rameshbhai
+- Half day hours for Ranjit/Rameshbhai - confirmed in 1:1 syncup , 5 hrs to 6 hrs are good for full day if they are leaving out of Ahmedabad.
+- Projector Curtain - size and price range so we can check and buy online
+- 
 
 
 ### 25 feb 2025 - cancelled due to other meetings
