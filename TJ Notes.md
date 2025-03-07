@@ -1,6 +1,22 @@
 ===========================================================
 
+# How much SQL is needed for .NET Developer
+- DDL (create,alter,drop)
+- Basic DML ( SELECT, UPDATE, INSERT, DELETE, Bulk Insert, Merge )
+- Data Types for columns
+- DateTime and String Functions
+- 
+===========================================================
 
+# Learning Graph for a .NET Developer
+- .NET core
+- Web API
+- FE will be Angular & React
+- BE in C# Web API
+- .NET dev => Full Stack Developer by learning Angular / React
+- Cloud : Azure / AWS (Learn development related things only in Cloud, avoid Azure Admin things)
+- Microservices (its nothing but a Collection of APIs)
+- 
 
 ===========================================================
 
@@ -1345,20 +1361,6 @@ o   Salary Bank Account which brings benefits like no MAB
 ·      Long term customers -> we multi folded on few projects and have opened opportunities for all to work in different roles. That’s huge win for us ! 
 
 # ========================================
-
-my wife and i have lot of issues since last 2.5 years after the marriage and still she is not accepting my things, not respecing my mother and relatvies and me too and have lot of complaints about me always even if i do lot for her still in her POV i do nothing. and previouly also many times she said she dont feel good here and dont want to be with me and recently also there are lot of fights and up and down from last 20 days and so no i also taking decision to separate and so she also asked me over the mssage saying that "Are you sure about your decision"
-so write my reply in such a way that yes i also dont want to be with her as she also wants the same and eveneutaly i am taking this decision for her happiness only as she dont have that interest in me any more so write short reply message for this
-
-
-
-
-
-
-
-
-
-
-
 
 
 
