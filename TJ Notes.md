@@ -5,7 +5,42 @@
 - Basic DML ( SELECT, UPDATE, INSERT, DELETE, Bulk Insert, Merge )
 - Data Types for columns
 - DateTime and String Functions
-- 
+- Basic Querying ( FROM, WHERE, GROUP BY, HAVING, TOP, OFFSET.FETCH )
+- Joins ( Inner, Left, RIght, Full, CROSS ) 
+- Subqueries ( Self-contained, correlated )
+- Popular Command
+  - UNION/UNION ALL
+  - CASE WHEN THEN
+  - CROSS APPLY / OUTER APPLY
+- TABLE Expressions
+  - View
+  - Functions
+  - Derived Tables
+  - Common Table Expressions (CTE)
+- Windowed Functions (Basic)
+  - row number rank dense rank also using sum over mean Max count over type of things aggregate window functions offset window functions ranking window functions they are really important to retrieve statistics information  
+- Working with JSON,XML
+  - xml for older projects 
+- Stored Procedures
+- Transactions
+- Indexes
+  - Cluster Indexes
+  - Non-Cluster Indexes
+- Advanced Topics
+  - Full-Text Search
+  - Execution Plans
+  - Underling algorithms
+  - Relational theory.
+
+## NoSQL
+ - Data Modeling ( document, eky-value,graph and column family )  
+ - Partionining
+ - Querying
+ - Security
+  - authentication
+  - authorization
+- High Availablity and Scalability
+- APIs  
 ===========================================================
 
 # Learning Graph for a .NET Developer
@@ -77,6 +112,13 @@
   - CI/CD Pipelines
   - Docker and Containerization
   - Cloud Deployment
+
+## Must Watch Youtube Vids
+
+- .NET 9 - Implementing Repository Pattern with Minimal API & SQLite | Entity Framework Core Tutorial
+https://www.youtube.com/watch?v=bOJLgzU4M74
+- 
+
 
 
 

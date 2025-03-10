@@ -13,6 +13,29 @@
 
 ================
 
+## Arman Rizal - Co-Founder & CTO 
+
+### Post URL : 
+https://www.linkedin.com/posts/arman-rizal_techlead-softwareengineering-apitesting-activity-7304696196126625792-L_2z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A
+
+### My Comment
+Great guide to API testing!
+
+At JigNect, we've seen firsthand how crucial API testing is for ensuring seamless integration, performance, and security across applications.
+
+One of our notable projects involved automating API tests for a gaming application built on a microservices architecture. We used tools like HTTP C# Client and SpecFlow to create a robust test automation framework, integrating it with Azure DevOps for continuous testing. This approach significantly reduced testing time, improved quality, and enhanced test coverage. You can read more about this case study here:
+API Test Automation For Gaming Application : https://jignect.tech/api-test-automation-for-gaming-application-built-on-microservices-architecture/
+
+API testing is indeed vital for catching defects early, improving performance, and automating releases. If you're looking to enhance your API testing strategies or need assistance with automation, feel free to connect with us! "Quality is not an act, it is a habit. 
+
+"Quality assurance is not a phase, it is a way of life."
+
+
+## Commented
+
+
+================
+
 ## 11. Laxmi Roy - Team Lead @Accenture - RestAssured & API Automation
 
 ### Post URL : 
