@@ -1,3 +1,30 @@
+
+=============================================
+⁠
+Updates - 11 March 2025
+ 
+Piyush Patel Please find my all types of updates here.
+ 
+📌 C# Web API Learning 📌
+- ALTER Command (DDL) in SQL with Implementation - COMPLETED ✅
+
+📌 Linkedin 📌
+- Added comment on 5 different posts from Jignect Account.
+ 
+📌 Admin 📌
+- Recruitment and All other Expense Updates
+- JT Cheque Withdrawal
+- Piyush PVC Card Making
+- Stored All Feb 2025 Bills
+- Collected 2XL sized T shirt for Tax+.
+ 
+NEXT ⏭️
+- Difference between Alter and Update in SQL with examples
+- Difference between Delete, Drop & Truncate in SQL | DBMS
+
+
+Thanks !
+=============================================
 Updates - 10 March 2025
  
 Piyush Patel Please find my all types of updates here.

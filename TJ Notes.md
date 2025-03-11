@@ -1,4 +1,33 @@
 ===========================================================
+Need 2 XL Sized Jignect T-shirt - https://jignect.keka.com/#/inbox/action/helpdesk/1107082/details
+
+I have handed over to myself as staff memeber failed to do so due to one or other reason and not able to understand the Size..
+
+Ranjit is fine... ashika.. he get things.. but in Rameshbhai cases..  I suggest you to come on ground sometime and help him to get the things done
+
+He tried but can't figure out also so I went to 2nd floor and find the XL sized t shirt... SO The one time effort can be made here to Organize T shirt by going there .. Place paper Label and then they can give you T shirt whenever you wanted.. but Staying away and dialing some times not resolve the issues.
+
+Hope you understand  So I decided to do this and discussed with Rameshbhai so Things get easy for Everyone of Us.
+
+Thanks.
+
+
+===========================================================
+###### felt bad for him
+
+I want to emphasize how valuable your experience has been. During your time on the bench, you've gained knowledge in automation across various technologies. This is an incredibly sought-after skill set in today's job market. Instead of preparing for different technologies every week, you now have a solid foundation in automation that applies across multiple fields.
+
+Your expertise in automation is a significant advantage. It's a skill that's in high demand across industries like finance, healthcare, manufacturing, and IT. With this knowledge, you're well-positioned to focus your efforts on specific areas where automation is making a big impact.
+
+Remember, your journey of learning and growth hasn't been in vain. You've equipped yourself with skills that are shaping the future of work. Now, you can channel your energy into refining these skills and applying them to your next role.
+
+Stay positive and keep moving forward. 
+
+Your dedication to learning will undoubtedly pay off as you embark on the next chapter of your career. 
+
+You've got this!
+
+===========================================================
 
 # How much SQL is needed for .NET Developer
 - DDL (create,alter,drop)
