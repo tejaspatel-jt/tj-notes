@@ -1,3 +1,22 @@
+======================
+="Spend by Foru "&SUM(C2:C)&""
+
+
+Feb 2025 = 6 Feb to 5 March 2025
+-----------------------------------
+Total Home Grocery= 1570
+-----------------------------------
+Spend by Foru = 2200
+HOME - FOOD - 180
+HOME - GROCERY - 450
+HOME - VEGs - 940
+TEJAS - 430
+Vevar - 200
+
+6Feb25TO5Mar2025 = 2200 = 1570 grocery and others as attached
+
+
+======================
 
 Hello Anjali,
 

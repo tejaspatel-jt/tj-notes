@@ -1,6 +1,35 @@
 
 =============================================
 ⁠
+Updates - 12 March 2025
+ 
+Piyush Patel Please find my all types of updates here.
+ 
+📌 C# Web API Learning 📌
+- UPDATE Command (DML) in SQL with Implementation - COMPLETED ✅
+- Difference between Alter and Update in SQL with examples - COMPLETED ✅
+- Difference between Delete, Drop & Truncate in SQL | DBMS - COMPLETED ✅
+- DELETE Command (DML) in SQL with Implementation - COMPLETED ✅
+
+📌 Linkedin 📌
+- Added comment on 6 different posts from Jignect Account.
+ 
+📌 Admin 📌
+- Piyush Cabin AC Issue - In Progress
+- Male Washroom Flush Issue - In Progress
+
+📌 IS 📌
+- Wallpaper for all systems - In Progress
+- Projector Curtain - In Progress
+ 
+NEXT ⏭️
+- DROP Command (DDL) in SQL with Implementation
+- TRUNCATE Command (DDL) in SQL with Implementation
+
+
+Thanks !
+=============================================
+⁠
 Updates - 11 March 2025
  
 Piyush Patel Please find my all types of updates here.

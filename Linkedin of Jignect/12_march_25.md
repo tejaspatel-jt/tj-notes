@@ -83,13 +83,15 @@ The future of testing is definitely looking bright!
 
 ================
 
-## 6. Minh Nguyen - AI Automation
+## 6. Minh Nguyen - AI Automation ✅✅✅
 
 ### Post URL : 
 https://www.linkedin.com/posts/minh-nguyen-2bbb16355_after-nearly-a-week-of-hard-work-i-have-activity-7305397867135791105-Tdoa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A
 
 ### My Comment
-Congratulations on building such an impactful AI Automation workflow system! Your vision of simplifying tasks like marketing, customer service, and order management with AI is truly inspiring. AI-powered automation has the potential to revolutionize businesses by increasing efficiency, reducing errors, and optimizing processes—all while freeing up valuable time for teams to focus on strategic initiatives.
+Congratulations on building such an impactful AI Automation workflow system!
+
+Your vision of simplifying tasks like marketing, customer service, and order management with AI is truly inspiring. AI-powered automation has the potential to revolutionize businesses by increasing efficiency, reducing errors, and optimizing processes—all while freeing up valuable time for teams to focus on strategic initiatives.
 
 Your approach of making automation accessible and effortless is a game-changer, especially for businesses looking to scale without heavy manual intervention. The idea of tailoring features for various industries adds immense value, as it demonstrates how adaptable and versatile AI workflows can be.
 
@@ -98,11 +100,11 @@ Looking forward to your next article detailing the features—this could be a fa
 Keep up the amazing work! 
 
 ## Commented
-
+https://www.linkedin.com/feed/update/urn:li:activity:7305397867135791105?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7305397867135791105%2C7305577558056603648%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287305577558056603648%2Curn%3Ali%3Aactivity%3A7305397867135791105%29
 
 ================
 
-## 5. Chisom Ukadike - Automation Specialist & No-Code Developer
+## 5. Chisom Ukadike - Automation Specialist & No-Code Developer ✅✅✅
 
 ### Post URL : 
 https://www.linkedin.com/posts/chisom-ukadike_automation-is-no-persons-mate-oo-over-the-activity-7305459286334177281-e3Vb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A
@@ -119,17 +121,19 @@ At JigNect, we embrace this challenge every day, blending tools like Selenium, C
 Keep pushing forward—this journey is shaping you into a true expert!
 
 ## Commented
-
+https://www.linkedin.com/feed/update/urn:li:activity:7305459286334177281?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7305459286334177281%2C7305577212794068992%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287305577212794068992%2Curn%3Ali%3Aactivity%3A7305459286334177281%29
 
 ================
 
-## 4. Velmurugan Ramakrishnan - 𝘽𝙧𝙞𝙣𝙜𝙞𝙣𝙜 𝙎𝙚𝙡𝙚𝙣𝙞𝙪𝙢 𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙤𝙣 𝙩𝙤 𝙒𝙚𝙗 𝙋𝙤𝙧𝙩𝙖𝙡𝙨
+## 4. Velmurugan Ramakrishnan - 𝘽𝙧𝙞𝙣𝙜𝙞𝙣𝙜 𝙎𝙚𝙡𝙚𝙣𝙞𝙪𝙢 𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙤𝙣 𝙩𝙤 𝙒𝙚𝙗 𝙋𝙤𝙧𝙩𝙖𝙡𝙨 ✅✅✅
 
 ### Post URL : 
 https://www.linkedin.com/posts/velmuruganramakrishnan_selenium-automationtesting-webapplications-activity-7304578911252701184-70qA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A
 
 ### My Comment
-Such an exciting concept! Making Selenium automation accessible through a web-based portal for non-technical users is a game-changer. By enabling users to execute test cases with just a click, track results, and reduce dependencies, this approach not only simplifies workflows but also bridges the gap between technical and non-technical teams.
+Such an exciting concept! 
+
+Making Selenium automation accessible through a web-based portal for non-technical users is a game-changer. By enabling users to execute test cases with just a click, track results, and reduce dependencies, this approach not only simplifies workflows but also bridges the gap between technical and non-technical teams.
 
 One potential challenge could be ensuring robust handling of dynamic elements and maintaining the scalability of the portal as test suites grow. Additionally, incorporating features like parallel execution or integration with cloud grids (e.g., BrowserStack or Sauce Labs) could further enhance efficiency and reduce execution times.
 
@@ -138,19 +142,24 @@ This idea aligns with the future of testing—collaborative, user-friendly, and 
 Kudos for thinking outside the box!
 
 ## Commented
-
+https://www.linkedin.com/feed/update/urn:li:activity:7304578911252701184?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7304578911252701184%2C7305559776279629825%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287305559776279629825%2Curn%3Ali%3Aactivity%3A7304578911252701184%29
 
 ================
 
-## 3. Japneed Sachdeva - let's not forget manual testing
+## 3. Japneed Sachdeva - let's not forget manual testing ✅✅✅
 
 ### Post URL : 
 https://www.linkedin.com/posts/japneet-sachdeva_japneetsachdeva-activity-7305422286826676224-ZE0p?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A
 
 ### My Comment
-Absolutely love this perspective! Manual testing is indeed the unsung hero of software quality assurance. While automation excels at repetitive tasks and regression testing, manual testing brings the human touch—critical for exploratory testing, usability evaluation, and uncovering hidden issues that automation might overlook.
+Absolutely love this perspective! 
 
-We’ve seen the value of combining manual and automated approaches firsthand in our company. For instance, in one of our case studies, we implemented mobile app UI automation for a GST billing application. While automation ensured efficiency, manual testing played a crucial role in verifying GST calculations and usability across diverse scenarios. You can check out the full case study here:
+Manual testing is indeed the unsung hero of software quality assurance. While automation excels at repetitive tasks and regression testing, manual testing brings the human touch—critical for exploratory testing, usability evaluation, and uncovering hidden issues that automation might overlook.
+
+We’ve seen the value of combining manual and automated approaches firsthand in our company. 
+For instance, in one of our case studies, we implemented mobile app UI automation for a GST billing application. While automation ensured efficiency, manual testing played a crucial role in verifying GST calculations and usability across diverse scenarios. 
+
+You can check out the full case study here:
 https://jignect.tech/project/implemented-mobile-app-ui-automation-for-gst-billing-application-android-ios/
 
 A balanced QA strategy leveraging both manual and automated testing is the key to delivering high-quality software. Thanks for highlighting this important topic!
@@ -158,11 +167,11 @@ A balanced QA strategy leveraging both manual and automated testing is the key t
 Let’s celebrate the brilliance of manual testers—true guardians of quality! 
 
 ## Commented
-
+https://www.linkedin.com/feed/update/urn:li:activity:7305422286826676224?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7305422286826676224%2C7305538447979474945%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287305538447979474945%2Curn%3Ali%3Aactivity%3A7305422286826676224%29
 
 ================
 
-## 2. Kushal Parikh - SpecFlow is Dead ? How to implement BDD now ?
+## 2. Kushal Parikh - SpecFlow is Dead ? How to implement BDD now ? ✅✅✅
 
 ### Post URL : 
 https://www.linkedin.com/posts/kushalparikh11_specflow-reqnroll-selenium-activity-7305225994628481025-qBkD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7xHg0Bl-y5twWsOh7ZlosnWzcrEARtJ_A
@@ -178,7 +187,7 @@ https://jignect.tech/test-automation-with-bdd-specflow-and-selenium/
  Let’s keep quality at the forefront of innovation! 
 
 ## Commented
-
+https://www.linkedin.com/feed/update/urn:li:activity:7305225994628481025?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7305225994628481025%2C7305492296077082624%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287305492296077082624%2Curn%3Ali%3Aactivity%3A7305225994628481025%29
 
 ================
 
