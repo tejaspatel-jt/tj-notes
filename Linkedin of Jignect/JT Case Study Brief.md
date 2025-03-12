@@ -12,3 +12,7 @@ We also successfully implemented a comprehensive test automation framework for a
 At JigNect, we've been at the forefront of enhancing software quality through innovative testing solutions. Our expertise in API testing has allowed us to deliver tailored automation frameworks that meet the complex needs of our clients. 
 
 We also successfully implemented a comprehensive test automation framework for a U.S.-based medical staffing services company. The framework integrated UI and API automation using tools like Selenium, Appium, and HTTP C# Client, ensuring compatibility across multiple browsers and platforms. By leveraging Azure DevOps for CI/CD, we significantly improved testing efficiency, enhanced test coverage, and facilitated early bug detection. This approach allowed the team to focus on more complex testing scenarios while reducing manual testing efforts and costs. You can read more about this case study here:https://jignect.tech/project/implementing-web-mobile-test-ui-api-automation-solutions-for-enterprise-organization/
+
+=======================================================
+
+# Automation
